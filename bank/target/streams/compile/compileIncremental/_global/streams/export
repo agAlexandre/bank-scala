@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/ags/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11.jar -classpath /home/ags/IdeaProjects/bank/target/scala-2.12/classes /home/ags/IdeaProjects/bank/src/main/scala/bank/main.scala /home/ags/IdeaProjects/bank/src/main/scala/bank/accountBank.scala
